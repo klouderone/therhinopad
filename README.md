@@ -6,7 +6,7 @@ The Keycap spacing is 19.05mm x 19.05mm, NOT the usual choc keycap spacing. You 
 
 You can buy the PCB or Kit at my shop https://keaworkshop.com/products/rhino-pad.
 
-The Case is 3D printed and uses 3x2x1 magnets to hold it together. This is included in the files.
+The Case is 3D printed and uses 3mm x 2mm x 1mm magnets to hold it together. This is included in the files.
 
 If you have any questions or want to get in contact with me, you can find contact information at the link https://keaworkshop.com/pages/contact.
 

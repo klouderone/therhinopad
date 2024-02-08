@@ -1,4 +1,4 @@
-# The Rhino Pad Macro Pad
+# The Rhino Pad Macro Pad by Kea Workshop
 
 The Rhino Pad is a compact Macro Pad tailored for Computer-Aided Drawing, with 13 keys and an encoder that can be programmed for any macro in your program. It supports QMK or ZMK with either a Pro Micro or similar for QMK, or the Nice!Nano V2 for ZMK. 
 

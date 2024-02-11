@@ -4,12 +4,9 @@ The Rhino Pad is a compact Macro Pad tailored for Computer-Aided Drawing, with 1
 
 The Keycap spacing is 19.05mm x 19.05mm, NOT the usual choc keycap spacing. You can find the 3D printed keycaps on printables https://www.printables.com/model/685983-kea-workshop-choc-v1-mx-spaced-keycaps. 
 
-You can buy the PCB or Kit at my shop https://keaworkshop.com/products/rhino-pad.
-
 The Case is 3D printed and uses 3mm x 2mm x 1mm magnets to hold it together. This is included in the files.
 
-If you have any questions or want to get in contact with me, you can find contact information at the link https://keaworkshop.com/pages/contact.
-
+If you have any questions or want to get in contact with me, my discord is klouder#3331 or my email is claude@keaworkshop.com.
 ## Photos
 
 ![Finished Built Raw](https://github.com/klouderone/therhinopad/assets/136342173/7532a64a-21ee-4ed4-a29c-350c069533df)

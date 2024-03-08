@@ -1,6 +1,0 @@
-if SHIELD_RHINOPAD
-
-config ZMK_KEYBOARD_NAME
-    default "rhinopad"
-
-endif

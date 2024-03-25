@@ -69,8 +69,8 @@ If you have an OLED or Nice!View display, you can solder these on here. If using
 
 You can now solder the encoder on. If you have an EC11 encoder, use side cutters to remove the two pins used for the press down button. 
 
-<img width="800" alt="Screenshot 2024-03-26 012934" src="https://github.com/klouderone/therhinopad/assets/136342173/9a545dc6-3018-42ac-8eb4-f729a333860c">    
-
+<img width="1118" alt="image" src="https://github.com/klouderone/therhinopad/assets/136342173/85d91154-2910-4931-b9b8-96c9883e600a">
+ 
 
 <br>
 

@@ -32,7 +32,7 @@ Solder the diodes onto the PCB. Make sure that the orientation of the diode matc
 
 <br>
 
-Then solder the button and switch onto the PCB. Take your time doing this and use tweezers and a steady hand. Ideally, you can use solder paste to do this also. 
+Then solder the button and switch onto the PCB. Take your time doing this and use tweezers and a steady hand. Ideally, you can use solder paste to do this also. The switch is not neccessary if you are using a Pro-Micro.
 
 <img width="1293" alt="Screenshot 2024-03-26 010728" src="https://github.com/klouderone/therhinopad/assets/136342173/2b494b68-7a53-48db-b5c1-1824d192b3c5">   
 
@@ -46,7 +46,7 @@ Solder the Hotswap sockets onto the back of the PCB. This should be pretty strai
 
 <br>
 
-Place the Mill Max sockets into the corresponding holes. If you are using a Nice!Nano, you want to have 13 sockets each side, and if you are using a Pro Micro or similar, you want 12 sockets per side. You can use some side cutters to trim this to length. The microcontroller wants to go as far down as possible, so that if you are using a Pro Micro, the VBAT - and + holes do not have any pins in them. From here, solder the Mill Max pins onto the microcontroller through holes. It is reccommended you do not heat the through holes for too long on this step, make sure your iron is in good condition to melt the solder. Be careful to make sure that the sockets are not bent and are both vertical when soldering the microcontroller to mill max pins, as this will impact how easy it is to remove the microcontroller and may cause damage to the pins when taking it out. 
+Place the Mill Max sockets into the corresponding holes. If you are using a Nice!Nano, you want to have 13 sockets each side, and if you are using a Pro Micro or similar, you want 12 sockets per side. You can use some side cutters to trim this to length. The microcontroller wants to go as far down as possible, so that if you are using a Pro Micro, the VBAT - and + holes do not have any pins in them. From here, solder the Mill Max pins onto the microcontroller through holes. It is reccommended you do not heat the through holes for too long on this step, make sure your iron is in good condition to melt the solder. Be careful to make sure that the sockets are not bent and are both vertical when soldering the microcontroller to mill max pins, as this will impact how easy it is to remove the microcontroller and may cause damage to the pins when taking it out. You can ignore the holes in the middle of the microcontroller, these are not connected to anything.
 
 <img width="1161" alt="Screenshot 2024-03-26 011222" src="https://github.com/klouderone/therhinopad/assets/136342173/45bff567-3fb6-4f12-94e3-533d3b0e5343">     
 
@@ -60,7 +60,7 @@ From here, you can then solder the sockets onto the PCB, also making sure that t
 
 <br>
 
-If you have an OLED or Nice!View display, you can solder these on here. If using an OLED display, make sure that it is socketed correctly. The VCC through hole is the middle hole. The Picture below shows the correct way.
+If you have an OLED or Nice!View display, you can solder these on here. If using an OLED display, make sure that it is socketed correctly. The VCC through hole is the middle hole. The Picture below shows the correct way. The socket should usually come with your display. The correct socket for the OLED is a 1x4p PH5 Box header socket https://www.aliexpress.com/item/4000147221999.html. You should be able to find this at your local electronics store.
 
 <img width="1085" alt="Screenshot 2024-03-26 012811" src="https://github.com/klouderone/therhinopad/assets/136342173/2864f1aa-34e5-4a99-8793-9dee23dcb66e">     
 

@@ -76,6 +76,9 @@ You can now solder the encoder on. If you have an EC11 encoder, use side cutters
 
 Before putting your keycaps on, you can now upload your firmware to the microcontroller. Basic firmware folders can be found in the github repo, and moved into your local machine for editing or flashing.
 
+<img width="1204" alt="Screenshot 2024-03-26 011403" src="https://github.com/klouderone/therhinopad/assets/136342173/8b49ee2c-48aa-4b15-b982-8c639f651856">
+
+
 Please refer to the abundance of youtube videos if you get stuck with QMK or ZMK! 
 
 Thanks for reading and happy building!

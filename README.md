@@ -86,7 +86,7 @@ With the microcontroller out of the Mill-Max sockets, carefully solder the posit
 
 ### STEP TEN: 
 
-Reinsert you microcontroller, install your switches and keycaps, and enjoy your new Macropad!
+Reinsert your microcontroller, install your switches and keycaps, and enjoy your new Macropad!
 
 ## Photos
 

@@ -1,4 +1,4 @@
-# The Rhino Pad Macro Pad by Kea Workshop
+# The Rhino Macropad by Kea Workshop
 
 ![Finished Built Raw](https://github.com/klouderone/therhinopad/assets/136342173/7532a64a-21ee-4ed4-a29c-350c069533df)
 

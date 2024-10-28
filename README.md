@@ -7,10 +7,10 @@ The Rhino Pad is a compact Macro Pad tailored for Computer-Aided Drawing, with 1
 **Features:**
 
 - 13 Switches, 1 Encoder
-- Pro Micro / Elite C footprint
+- Pro Micro footprint
 - Supports MX and Choc Hotswap Switches
 - Supports wireless Microcontrollers (nice!nano); built in battery pads and battery switch pads
-- Magnetic Sandwich Case (3mm Diameter x 2mm Height)
+- Magnetic Sandwich Case (20x 3mm Diameter x 2mm Height)
 
 ## Build Guide
 

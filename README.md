@@ -1,7 +1,5 @@
 # The Rhino Macropad by Kea Workshop
 
-![Finished Built Raw](https://github.com/klouderone/therhinopad/assets/136342173/7532a64a-21ee-4ed4-a29c-350c069533df)
-
 ![Rhinopad by SadWitch Credit Smaller](https://github.com/user-attachments/assets/272f4bbb-f375-45ca-9e5b-e5a7153ed447)
 
 The Rhino Pad is a compact Macro Pad tailored for Computer-Aided Drawing, with 13 keys and an encoder that can be programmed for any macro in your program. It supports QMK or ZMK with either a Pro Micro or similar for QMK, or the Nice!Nano V2 for ZMK. The Keycap spacing is 19.05mm x 19.05mm, NOT the usual choc keycap spacing. You can find the 3D printed keycaps on printables https://www.printables.com/model/685983-kea-workshop-choc-v1-mx-spaced-keycaps. 
@@ -92,6 +90,7 @@ Reinsert your microcontroller, install your switches and keycaps, and enjoy your
 
 ## Photos
 
+![Finished Built Raw](https://github.com/klouderone/therhinopad/assets/136342173/7532a64a-21ee-4ed4-a29c-350c069533df)
 
 ![Rhino Pad PCB on Concrete Downsized](https://github.com/klouderone/therhinopad/assets/136342173/98acb469-6ab1-4682-90cb-9becd1a81c45)
 
